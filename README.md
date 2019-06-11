@@ -1,5 +1,3 @@
 # README #
-## Created ##
-### using ###
-#### Markdown #### 
+## File created using Markdown ### 
 
